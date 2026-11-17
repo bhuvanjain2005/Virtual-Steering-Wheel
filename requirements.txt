@@ -1,0 +1,7 @@
+numpy<2
+opencv-python==4.10.0.84
+mediapipe==0.10.21
+pyautogui==0.9.54
+# Optional for virtual Xbox controller mode:
+# Install separately after reviewing the driver note in README.md:
+# vgamepad
